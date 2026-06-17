@@ -17,4 +17,4 @@ The original `ian-xiaohei-illustrations` repository is licensed under MIT. This 
 
 ## Local Assets
 
-The example images under `examples/ai-cartea-ai-illustrations/` were generated for this repository as demonstration assets for the Lulu skill.
+The example images under `examples/` were generated for this repository as demonstration assets for the Lulu skill.
